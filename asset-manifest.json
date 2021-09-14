@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/league-matches/static/css/main.88596e4e.chunk.css",
-    "main.js": "/league-matches/static/js/main.ba3397cd.chunk.js",
-    "main.js.map": "/league-matches/static/js/main.ba3397cd.chunk.js.map",
+    "main.js": "/league-matches/static/js/main.27859eb2.chunk.js",
+    "main.js.map": "/league-matches/static/js/main.27859eb2.chunk.js.map",
     "runtime-main.js": "/league-matches/static/js/runtime-main.40f5e21b.js",
     "runtime-main.js.map": "/league-matches/static/js/runtime-main.40f5e21b.js.map",
     "static/js/2.787d5af2.chunk.js": "/league-matches/static/js/2.787d5af2.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.40f5e21b.js",
     "static/js/2.787d5af2.chunk.js",
     "static/css/main.88596e4e.chunk.css",
-    "static/js/main.ba3397cd.chunk.js"
+    "static/js/main.27859eb2.chunk.js"
   ]
 }
